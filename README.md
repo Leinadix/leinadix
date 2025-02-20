@@ -15,7 +15,7 @@
 
 - How to reach me **Discord: Leinadix**
 
-- Fun fact **You should play CoLoBoT!!**
+- Fun fact **You should play [CoLoBoT](https://github.com/colobot/colobot)!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
