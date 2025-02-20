@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://github.com/Leinadix](https://github.com/Leinadix)
 
-- Ask me about **c, c++ and typescript**
+- Ask me about **c, c++ and engine developement!**
 
 - How to reach me **Discord: Leinadix**
 
