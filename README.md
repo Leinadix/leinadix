@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leinadix&theme=dracula" alt="leinadix" /></a> </p>
 
-- I’m currently working on [osu!](https://github.com/Leinadix/osu)
+- I’m currently working on [C4TX](https://c4tx.top)
 
 - I’m currently learning **svelte**
 
 - All of my projects are available at [https://github.com/Leinadix](https://github.com/Leinadix)
 
-- Ask me about **c, c++ and engine developement!**
+- Ask me about **c, c++ and engine developement!** *(This also includes rythm games :>)*
 
 - How to reach me **Discord: Leinadix**
 
