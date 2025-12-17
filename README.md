@@ -13,7 +13,7 @@
 
 - Ask me about **C, C++ and low level engine developement!** *(This also includes rythm games and their math problems! :>)*
 
-- How to reach me **Discord: Leinadix**
+- How to reach me **Discord: lndix**
 
 - Fun fact **You should play [CoLoBoT](https://github.com/colobot/colobot)!!**
 
