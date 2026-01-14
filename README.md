@@ -18,7 +18,7 @@
 ---
 
 ## Now
-**Most important project:** **Campanella** (open source)
+**Most important project:** **Companella** (open source)
 
 - Systems-minded developer with a focus on correctness, determinism, and performance.
 - Cyber Security student at the **University of Bonn**.
@@ -28,7 +28,7 @@
 
 ## Featured Projects
 
-### 🚀 Campanella (Open Source) — current focus
+### 🚀 Companella (Open Source) — current focus
 - Main OSS project. Architecture-first, clean tooling, and long-term maintainability.
 
 ### 🎵 C4TX — Rhythm Game
